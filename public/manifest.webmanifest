@@ -1,0 +1,11 @@
+{
+  "name": "pdf_Web — Herramientas de PDF y Word",
+  "short_name": "pdf_Web",
+  "description": "Edita, une, divide y convierte PDF y Word en tu navegador, sin subir archivos.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#f2f2f7",
+  "lang": "es",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
